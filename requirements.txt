@@ -1,6 +1,6 @@
 googletrans==4.0.0-rc1
-gTTS==2.2.3
-pygame==2.5.4
-SpeechRecognition==3.8.1
-Pillow==9.6.1
-tk==0.1.0
+gTTS
+pygame
+SpeechRecognition
+Pillow
+tk
