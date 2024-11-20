@@ -45,3 +45,5 @@ Run the app:
 ```bash
 python translator_app.py
 ```
+
+![image](https://github.com/user-attachments/assets/a2003b01-5284-4001-90bc-482e015bb72d)
