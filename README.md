@@ -43,7 +43,7 @@ Place the required images (speak.png, voice.jpg, and arrow.jpg) in the project d
 
 Run the app:
 ```bash
-python translator_app.py
+python Translator.py
 ```
 
 ![image](https://github.com/user-attachments/assets/a2003b01-5284-4001-90bc-482e015bb72d)
